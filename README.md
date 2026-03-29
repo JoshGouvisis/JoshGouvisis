@@ -30,9 +30,9 @@ Cybersecurity professional with hands-on experience in SOC operations, threat de
 
 ## 📊 GitHub Stats
 
-![Josh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoshGouvisis&show_icons=true&theme=dark&hide_border=true&count_private=true)
+![Josh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoshGouvisis&show_icons=true&theme=tokyonight&hide_border=true&cache_bust=1)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoshGouvisis&layout=compact&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoshGouvisis&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
