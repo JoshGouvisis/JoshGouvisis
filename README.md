@@ -30,9 +30,15 @@ Cybersecurity professional with hands-on experience in SOC operations, threat de
 
 ## 📊 GitHub Stats
 
-![Josh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoshGouvisis&show_icons=true&theme=tokyonight&hide_border=true&cache_bust=1)
+![Profile Views](https://komarev.com/ghpvc/?username=JoshGouvisis&color=0e75b6&style=flat&label=Profile+Views)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoshGouvisis&layout=compact&theme=tokyonight&hide_border=true)
+| Stat | Value |
+|------|-------|
+| 🗂️ Public Repos | 2 |
+| ✅ Contributions (2026) | 18+ |
+| 🎓 Certificates | Google Cybersecurity Professional |
+| 📍 Location | Phoenix, AZ |
+| 💼 Status | Actively Building |
 ---
 
 ## 🚀 Current Goals
