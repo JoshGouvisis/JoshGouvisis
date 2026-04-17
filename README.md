@@ -58,6 +58,7 @@ Building toward CRISC certification with a focus on GRC and cyber risk managemen
 |--------|--------------|--------|
 | ✅ | Google Cybersecurity Professional Certificate | March 2026 |
 | 🔄 | CompTIA Security+ | May 2026 |
+| 🎯 | **Land Security Risk Analyst Role** | Post Security+ |
 | 🔄 | ISC2 CC — Certified in Cybersecurity | June/July 2026 |
 | 🔄 | CompTIA CySA+ | Aug/Sep 2026 |
 | 🔄 | OCEG GRCP — GRC Professional | Early 2027 |
@@ -69,8 +70,8 @@ Building toward CRISC certification with a focus on GRC and cyber risk managemen
 
 - ✅ Google Cybersecurity Professional Certificate
 - 🔄 CompTIA Security+ (target: May 2026)
+- 🎯 Land Security Risk Analyst role
 - 🔄 ISC2 CC — Certified in Cybersecurity (target: June/July 2026)
 - 🔄 CompTIA CySA+ (target: Aug/Sep 2026)
 - 🔄 OCEG GRCP — GRC Professional (target: Early 2027)
-- 🔄 ISACA CRISC (target: Early 2028)
-- 🔄 Land Security Risk Analyst role
+- 🔄 ISACA CRISC — Certified in Risk and Information Systems Control (target: Early 2028)
