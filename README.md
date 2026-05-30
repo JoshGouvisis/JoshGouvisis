@@ -1,5 +1,4 @@
 # Hi, I'm Josh Gouvisis 👋
-
 ![Security Risk Analyst](https://img.shields.io/badge/Security_Risk_Analyst-Target_Role-darkgreen?style=flat)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity_Professional-000000?style=flat&logo=hackthebox&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -28,6 +27,14 @@ GRC and cyber risk management.
 
 ---
 
+## 🎖️ Certifications
+
+[![CompTIA Security+](https://images.credly.com/size/110x110/images/74790a75-8451-400a-8536-92d792c5184a/CompTIA_Security_2Bce.png)](https://www.credly.com/badges/7b4596f7-d510-4f0e-93b0-5f22cc84c2e9/public_url)
+[![Google Cybersecurity Professional Certificate](https://images.credly.com/size/110x110/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png)](https://www.credly.com/badges/af201fb2-2ae6-4f9a-b7d1-646460b8a177/public_url)
+[![PRMA](https://images.credly.com/size/110x110/images/4a038936-9129-4e90-b25e-e80082e8b5f7/image.png)](https://www.credly.com/badges/2003cdc0-6011-4897-a7c3-7a1a01f9305d/public_url)
+
+---
+
 ## 🧰 Skills & Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -48,7 +55,7 @@ GRC and cyber risk management.
 |------|-------|
 | 🗂️ Public Repos | 3 |
 | ✅ Contributions (2026) | 182+ |
-| 🏆 Certifications | Google Cybersecurity Professional \| CompTIA Security+ |
+| 🏆 Certifications | Google Cybersecurity Professional \| CompTIA Security+ \| PRMA |
 | 📍 Location | Phoenix, AZ |
 | 💼 Status | Actively Building |
 
