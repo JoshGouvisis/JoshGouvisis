@@ -12,11 +12,7 @@
 
 ## 🛡️ About Me
 
-Security Risk Analyst with 12 years of enterprise risk management and high-net-worth
-insurance experience, now transitioning into cybersecurity. Hands-on background in
-SOC operations, threat detection, incident response, and Python security automation.
-CompTIA Security+ certified. Building toward CRISC certification with a focus on
-GRC and cyber risk management.
+Security Risk Analyst with 12 years of enterprise risk management and high-net-worth insurance experience, now pursuing cybersecurity roles focused on GRC and risk management. Hands-on background in SOC operations, threat detection, incident response, and Python security automation. CompTIA Security+ certified. Building toward CRISC certification with a focus on GRC and cyber risk management.
 
 - 📍 Based in Phoenix, AZ
 - 🎓 Google Cybersecurity Professional Certificate (March 2026)
@@ -44,6 +40,18 @@ GRC and cyber risk management.
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Risk Management](https://img.shields.io/badge/Risk_Management-12_Years-darkred?style=flat)
 ![GRC](https://img.shields.io/badge/GRC-In_Progress-orange?style=flat)
+![NIST CSF](https://img.shields.io/badge/NIST_CSF-2.0-blue?style=flat)
+![Policy Development](https://img.shields.io/badge/Policy_Development-darkblue?style=flat)
+
+---
+
+## 🗂️ Portfolio Projects
+
+| Project | Description |
+|---------|-------------|
+| [NIST CSF Gap Assessment](https://github.com/JoshGouvisis/nist-csf-gap-assessment) | NIST CSF 2.0 gap assessment for a fictional financial services firm covering all six functions, maturity scoring, and a prioritized remediation roadmap |
+| [Third-Party Vendor Risk Assessment](https://github.com/JoshGouvisis/third-party-vendor-risk-assessment) | Vendor risk assessment of a cloud-based SaaS HR platform with risk rating, findings, and conditions for approval |
+| [Security Policy Document Set](https://github.com/JoshGouvisis/veridian-security-policies) | Foundational AUP, Incident Response, and Access Control policies for a fictional logistics company aligned to NIST CSF 2.0 |
 
 ---
 
@@ -53,7 +61,7 @@ GRC and cyber risk management.
 
 | Stat | Value |
 |------|-------|
-| 🗂️ Public Repos | 3 |
+| 🗂️ Public Repos | 6 |
 | ✅ Contributions (2026) | 182+ |
 | 🏆 Certifications | Google Cybersecurity Professional \| CompTIA Security+ \| PRMA |
 | 📍 Location | Phoenix, AZ |
