@@ -28,7 +28,7 @@ Security Risk Analyst with 12 years of enterprise risk management and high-net-w
 [![CompTIA Security+](https://images.credly.com/size/110x110/images/80d8a06a-c384-42bf-ad36-db81bce5adce/blob)](https://www.credly.com/badges/7b4596f7-d510-4f0e-93b0-5f22cc84c2e9/public_url)
 [![Google Cybersecurity Professional Certificate](https://images.credly.com/size/110x110/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png)](https://www.credly.com/badges/af201fb2-2ae6-4f9a-b7d1-646460b8a177/public_url)
 [![PRMA](https://images.credly.com/size/110x110/images/e0ca1b26-479a-46c6-b43d-2c269ded3593/CPRIA_logo_large.png)](https://www.credly.com/badges/2003cdc0-6011-4897-a7c3-7a1a01f9305d/public_url)
-[![ISC2 CC](https://images.credly.com/size/110x110/images/2030e43f-8003-4d4b-9630-847add403c87/image.png)](https://www.credly.com/badges/YOUR-BADGE-ID-HERE/public_url)
+[![ISC2 CC](https://images.credly.com/size/120x120/images/2030e43f-8003-4d4b-9630-847add403c87/image.png)](https://www.credly.com/badges/YOUR-BADGE-ID-HERE/public_url)
 
 ---
 
