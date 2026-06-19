@@ -4,7 +4,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Google Certificate](https://img.shields.io/badge/Google_Cybersecurity_Certificate-4285F4?style=flat&logo=google&logoColor=white)
 ![Security+](https://img.shields.io/badge/CompTIA_Security%2B-Certified-brightgreen?style=flat)
-![ISC2 CC](https://img.shields.io/badge/ISC2_CC-Provisional_Pass-yellow?style=flat)
+![ISC2 CC](https://img.shields.io/badge/ISC2_CC-Certified-brightgreen?style=flat)
 ![CySA+](https://img.shields.io/badge/CySA%2B-In_Progress-orange?style=flat)
 ![CRISC](https://img.shields.io/badge/ISACA_CRISC-Planned_2028-blue?style=flat)
 
@@ -17,8 +17,8 @@ Security Risk Analyst with 12 years of enterprise risk management and high-net-w
 - 📍 Based in Phoenix, AZ
 - 🎓 Google Cybersecurity Professional Certificate (March 2026)
 - 🏆 CompTIA Security+ Certified (May 2026)
+- 🏆 ISC2 CC — Certified in Cybersecurity (June 2026)
 - 🎯 Target role: **Security Risk Analyst**
-- ⏳ ISC2 CC — Provisionally Passed (Endorsement Pending)
 - 💼 [LinkedIn](https://linkedin.com/in/joshgouvisis)
 
 ---
@@ -64,7 +64,7 @@ Security Risk Analyst with 12 years of enterprise risk management and high-net-w
 |------|-------|
 | 🗂️ Public Repos | 6 |
 | ✅ Contributions (2026) | 182+ |
-| 🏆 Certifications | Google Cybersecurity Professional \| CompTIA Security+ \| PRMA \| ISC2 CC (Provisional) |
+| 🏆 Certifications | Google Cybersecurity Professional \| CompTIA Security+ \| PRMA \| ISC2 CC |
 | 📍 Location | Phoenix, AZ |
 | 💼 Status | Actively Building |
 
@@ -76,8 +76,8 @@ Security Risk Analyst with 12 years of enterprise risk management and high-net-w
 |--------|--------------|--------|
 | ✅ | Google Cybersecurity Professional Certificate | March 2026 |
 | ✅ | CompTIA Security+ | May 2026 |
+| ✅ | ISC2 CC — Certified in Cybersecurity | June 2026 |
 | 🎯 | **Land Security Risk Analyst Role** | Post Security+ |
-| ⏳ | ISC2 CC — Certified in Cybersecurity | Provisionally Passed — Endorsement Pending |
 | 🔄 | CompTIA CySA+ | In Progress |
 | 🔄 | OCEG GRCP — GRC Professional | Early 2027 |
 | 🔄 | ISACA CRISC — Certified in Risk and Information Systems Control | Early 2028 |
@@ -88,8 +88,8 @@ Security Risk Analyst with 12 years of enterprise risk management and high-net-w
 
 - ✅ Google Cybersecurity Professional Certificate
 - ✅ CompTIA Security+ (May 2026)
+- ✅ ISC2 CC — Certified in Cybersecurity (June 2026)
 - 🎯 Land Security Risk Analyst role
-- ⏳ ISC2 CC — Provisionally Passed (Endorsement Pending)
 - 🔄 CompTIA CySA+ (In Progress)
 - 🔄 OCEG GRCP — GRC Professional (target: Early 2027)
 - 🔄 ISACA CRISC — Certified in Risk and Information Systems Control (target: Early 2028)
