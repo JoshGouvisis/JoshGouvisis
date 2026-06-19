@@ -18,7 +18,7 @@ Security Risk Analyst with 12 years of enterprise risk management and high-net-w
 - 🎓 Google Cybersecurity Professional Certificate (March 2026)
 - 🏆 CompTIA Security+ Certified (May 2026)
 - 🏆 ISC2 CC — Certified in Cybersecurity (June 2026)
-- 🎯 Target role: **Security Risk Analyst**
+- 🎯 Target role: **GRC or Security Analyst**
 - 💼 [LinkedIn](https://linkedin.com/in/joshgouvisis)
 
 ---
@@ -77,8 +77,8 @@ Security Risk Analyst with 12 years of enterprise risk management and high-net-w
 | ✅ | Google Cybersecurity Professional Certificate | March 2026 |
 | ✅ | CompTIA Security+ | May 2026 |
 | ✅ | ISC2 CC — Certified in Cybersecurity | June 2026 |
-| 🎯 | **Land Security Risk Analyst Role** | Post Security+ |
 | 🔄 | CompTIA CySA+ | In Progress |
+| 🎯 | **Land GRC or Security Analyst Role** | Actively Applying |
 | 🔄 | OCEG GRCP — GRC Professional | Early 2027 |
 | 🔄 | ISACA CRISC — Certified in Risk and Information Systems Control | Early 2028 |
 
@@ -89,7 +89,7 @@ Security Risk Analyst with 12 years of enterprise risk management and high-net-w
 - ✅ Google Cybersecurity Professional Certificate
 - ✅ CompTIA Security+ (May 2026)
 - ✅ ISC2 CC — Certified in Cybersecurity (June 2026)
-- 🎯 Land Security Risk Analyst role
 - 🔄 CompTIA CySA+ (In Progress)
+- 🎯 Land GRC or Security Analyst Role (Actively Applying)
 - 🔄 OCEG GRCP — GRC Professional (target: Early 2027)
 - 🔄 ISACA CRISC — Certified in Risk and Information Systems Control (target: Early 2028)
