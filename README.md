@@ -1,5 +1,5 @@
 # Hi, I'm Josh Gouvisis 👋
-![Security Risk Analyst](https://img.shields.io/badge/Security_Risk_Analyst-Target_Role-darkgreen?style=flat)
+![GRC & Security Analyst](https://img.shields.io/badge/GRC_%26_Security_Analyst-Target_Role-darkgreen?style=flat)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity_Professional-000000?style=flat&logo=hackthebox&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Google Certificate](https://img.shields.io/badge/Google_Cybersecurity_Certificate-4285F4?style=flat&logo=google&logoColor=white)
