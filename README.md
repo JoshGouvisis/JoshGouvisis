@@ -62,7 +62,7 @@ Security Risk Analyst with 12 years of enterprise risk management and high-net-w
 
 | Stat | Value |
 |------|-------|
-| 🗂️ Public Repos | 6 |
+| 🗂️ Public Repos | 7 |
 | ✅ Contributions (2026) | 182+ |
 | 🏆 Certifications | Google Cybersecurity Professional \| CompTIA Security+ \| PRMA \| ISC2 CC |
 | 📍 Location | Phoenix, AZ |
