@@ -19,7 +19,7 @@ Security Risk Analyst with 12 years of enterprise risk management and high-net-w
 - 🏆 CompTIA Security+ Certified (May 2026)
 - 🏆 ISC2 CC — Certified in Cybersecurity (June 2026)
 - 🎯 Target role: **GRC or Security Analyst**
-- 💼 [LinkedIn](https://linkedin.com/in/joshgouvisis)
+- 💼 [LinkedIn](https://www.linkedin.com/in/joshgouvisis/)
 
 ---
 
