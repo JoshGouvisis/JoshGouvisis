@@ -13,7 +13,7 @@
 
 ## 🛡️ About Me
 
-GRC & Security Risk Analyst with 12 years of enterprise risk management and high net worth insurance experience, transitioning into cybersecurity with a focus on GRC, security risk, and compliance. Hands on background in SOC operations, threat detection, incident response, and Python security automation. Actively pursuing GRC and Security Analyst roles, with a long term goal of CRISC certification.
+GRC & Security Risk Analyst with 12 years of insurance risk management experience, including high net worth advisory work, transitioning into cybersecurity with a focus on GRC, security risk, and compliance. Hands on background in SOC operations, threat detection, incident response, and Python security automation. Actively pursuing GRC and Security Analyst roles, with a long term goal of CRISC certification.
 
 - 📍 Based in Phoenix, AZ
 - 🎓 Google Cybersecurity Professional Certificate (March 2026)
